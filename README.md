@@ -1,7 +1,6 @@
 Hi there 👋🏻
 I'm an extremely passionate iOS Developer
 About Me 😁
-
 - 📱 iOS Developer / Freelancer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
