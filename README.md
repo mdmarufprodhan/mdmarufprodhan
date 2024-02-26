@@ -6,9 +6,9 @@ I'm an extremely passionate iOS Developer
 - Design Pattern: MVVM.
 - Database: Firebase.
 -  App link:
-- https://apps.apple.com/us/app/shadhin-music/id1481808365(Shadhin Music).
-- https://apps.apple.com/us/app/aisocial-ai-assistant-ai-chat/id6446788161(AISocial).
-- https://apps.apple.com/us/app/reserveit-bd/id6463799781(Reservation system)
+- https://apps.apple.com/us/app/shadhin-music/id1481808365
+- https://apps.apple.com/us/app/aisocial-ai-assistant-ai-chat/id6446788161
+- https://apps.apple.com/us/app/reserveit-bd/id6463799781
 <!---
 mdmarufprodhan/mdmarufprodhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
