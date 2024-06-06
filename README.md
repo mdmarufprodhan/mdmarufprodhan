@@ -1,9 +1,9 @@
 Hi there ,
 I'm an extremely passionate iOS Developer
-- 📱 iOS App Developer(SwiftUI,UIkit)
+- 📱 iOS App Developer(UIkit,SwiftUI)
 - Programming Language: Swift ,C/C++, Java ,Python.
-- Frameworks and Library : SwiftUI,UIkit, Swift Package manager , Alamofire , CocoaPods , Core Data ,core graphics, core location, In-App Purchase , Push Notification,REST API , Appstore connect app published.
-- Design Pattern: MVVM.
+- Frameworks and Library :UIkit,SwiftUI Swift Package manager , Alamofire , CocoaPods , Core Data ,core graphics, core location, In-App Purchase , Push Notification,REST API , Appstore connect app published.
+- Design Pattern: MVC and MVVM.
 - Database: Firebase.
 -  App link:
 - https://apps.apple.com/us/app/shadhin-music/id1481808365
