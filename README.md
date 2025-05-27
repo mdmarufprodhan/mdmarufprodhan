@@ -11,9 +11,9 @@
 - **Services**: Firebase, REST API, In-App Purchases, Push Notifications
 
 ## 🚀 My Projects
-- [Fitness Tracker App](https://github.com/mdmarufprodhan/your-fitness-app)
-- [Habit Tracker App](https://github.com/mdmarufprodhan/your-habit-app)
-- [Custom Reels Player](https://github.com/mdmarufprodhan/your-reels-app)
+- [Shadhin Music App](https://apps.apple.com/us/app/shadhin-music/id1481808365)
+- [AI BUDDY Chat App](https://apps.apple.com/us/app/aisocial-ai-assistant-ai-chat/id6446788161)
+- [Reservation App ](https://apps.apple.com/us/app/reserveit-bd/id6463799781)
 
 ## 📫 Contact
 - 📧 Email: marufcse687@gmail.com  
