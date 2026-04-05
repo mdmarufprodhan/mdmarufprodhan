@@ -1,8 +1,8 @@
  <div align="center">                                                                                                  
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0071E3&height=200&section=header&text=Md%20Maruf%2
-  0Prodhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20UIKit&d
-  escAlignY=58&descSize=20" width="100%"/>                                                                              
-  </div>                                                                                                                
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0071E3&center=true&vCenter=t
+  rue&width=700&lines=4%2B+Years+iOS+Development+Experience;5+Live+App+Store+Apps;2+Published+iOS+SDKs;Apps+Used+by+Mill
+  ions+of+Users" alt="Typing SVG" />
+  </div>                                                                                                                  
                                                                                                                         
   <div align="center">                                                                                                  
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0071E3&center=true&vCenter=t
