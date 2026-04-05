@@ -1,7 +1,8 @@
- <div align="center">                                                                                                  
+                                                                                                                     
+  <div align="center">                                                                                                  
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0071E3&center=true&vCenter=t
   rue&width=700&lines=Hi+%F0%9F%91%8B+I'm+Md+Maruf+Prodhan;iOS+Developer+%7C+4%2B+Years+Experience;Apps+%26+SDKs+Used+by
-  +Millions" alt="Typing SVG" />                                                                                      
+  +Millions" alt="Typing SVG" />                                                                                        
   </div>                                                                                                                
                                                                                                                       
   <p align="center">
@@ -47,15 +48,15 @@
 
   ### Shadhin Music
   > Bangladesh's leading music streaming platform
-
-  - Millions of active users across Bangladesh                                                                          
-  - Audio/video streaming, offline playback, background audio
+                                                                                                                        
+  - Millions of active users across Bangladesh
+  - Audio/video streaming, offline playback, background audio                                                           
   - Complex playlist management, deep linking, push notifications                                                       
-  - [View on App Store](https://apps.apple.com/us/app/shadhin-music/id1481808365)                                     
+  - [View on App Store](https://apps.apple.com/us/app/shadhin-music/id1481808365)                                       
                                                                                                                         
-  ---                                                                                                                 
+  ---                                                                                                                   
                                                                                                                         
-  ### RYZE Music SDK *(iOS SDK)*                                                                                      
+  ### RYZE Music SDK *(iOS SDK)*                                                                                        
   > White-label music streaming SDK for third-party iOS developers
                                                                                                                         
   - Allows other companies to embed Shadhin's music engine into their own apps                                          
@@ -65,7 +66,7 @@
                                                                                                                         
   ---                                                                                                                   
                                                                                                                         
-  ### MYBL Music SDK *(iOS SDK)*                                                                                      
+  ### MYBL Music SDK *(iOS SDK)*                                                                                        
   > Music SDK integration built for the MyBL super-app (Banglalink)
                                                                                                                         
   - Embedded music streaming inside Banglalink's telecom super-app                                                      
@@ -74,65 +75,65 @@
                                                                                                                         
   ---                                                                                                                   
                                                                                                                         
-  ### DEEN — Quran, Hadith & Prayer Time                                                                              
+  ### DEEN — Quran, Hadith & Prayer Time                                                                                
   > Complete Islamic lifestyle app
                                                                                                                         
   - Full Quran with audio recitation, Hadith collections, accurate prayer times                                         
   - Location-based Qibla direction, Hijri calendar, Azan alerts                                                         
   - [View on App Store](https://apps.apple.com/app/deen-quran-hadith-prayer-time/id6504724978)                          
-                                                                                                                      
+                                                                                                                        
   ---                                                                                                                   
-                                                                                                                      
+                                                                                                                        
   ### NOOR — Quran, Namaz & Hadith                                                                                      
-  > Islamic app with Bangla language support                                                                          
-
+  > Islamic app with Bangla language support
+                                                                                                                        
   - Quran with Bangla translation, Namaz guide, Hadith browser                                                          
   - Designed for Bangladeshi Muslim users
   - [View on App Store](https://apps.apple.com/us/app/noor-quran-namaz-hadith/id1645748902)                             
                                                                                                                         
   ---
                                                                                                                         
-  ### AISocial — AI Assistant & Chat                                                                                  
+  ### AISocial — AI Assistant & Chat                                                                                    
   > AI-powered social assistant app
-
-  - Real-time AI conversations, multi-session support
-  - Clean conversational UI built with UIKit
+                                                                                                                        
+  - Real-time AI conversations, multi-session support                                                                 
+  - Clean conversational UI built with UIKit                                                                            
   - [View on App Store](https://apps.apple.com/us/app/aisocial-ai-assistant-ai-chat/id6446788161)                       
-   
+                                                                                                                        
   ---                                                                                                                   
-                                                                                                                      
+                                                                                                                        
   ### ReserveIt BD — Reservation App                                                                                    
   > Booking and reservation platform for Bangladesh
                                                                                                                         
-  - Table and service reservation system                                                                              
+  - Table and service reservation system                                                                                
   - Real-time availability, booking confirmation flow
-  - [View on App Store](https://apps.apple.com/us/app/reserveit-bd/id6463799781)
+  - [View on App Store](https://apps.apple.com/us/app/reserveit-bd/id6463799781)                                        
                                                                                                                         
   ---
                                                                                                                         
-  ## Tech Stack                                                                                                       
-
-  **Languages**
-
-  ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+  ## Tech Stack                                                                                                         
+  
+  **Languages**                                                                                                         
+                                                                                                                      
+  ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)                      
   ![Objective-C](https://img.shields.io/badge/Objective--C-438eff?style=flat-square&logo=apple&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                   
-                                                                                                                        
+                                                                                                                      
   **UI Frameworks**                                                                                                     
-                                                                                                                        
-  ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)                    
+                                                                                                                      
+  ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)                      
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
   ![Core Animation](https://img.shields.io/badge/Core%20Animation-555?style=flat-square&logo=apple&logoColor=white)     
   ![Auto Layout](https://img.shields.io/badge/Auto%20Layout-555?style=flat-square&logo=apple&logoColor=white)           
                                                                                                                         
   **Data & Storage**                                                                                                    
-                                                                                                                      
+                                                                                                                        
   ![Core Data](https://img.shields.io/badge/Core%20Data-555?style=flat-square&logo=apple&logoColor=white)               
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)                   
-                                                                                                                      
-  **Networking**                                                                                                        
-                                                                                                                      
+                                                                                                                        
+  **Networking**
+                                                                                                                        
   ![Alamofire](https://img.shields.io/badge/Alamofire-E05C42?style=flat-square&logo=swift&logoColor=white)              
   ![URLSession](https://img.shields.io/badge/URLSession-555?style=flat-square&logo=apple&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)            
@@ -142,29 +143,29 @@
   ![Swift Package                                                                                                       
   Manager](https://img.shields.io/badge/Swift%20Package%20Manager-F05138?style=flat-square&logo=swift&logoColor=white)
   ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)          
-  ![XCFramework](https://img.shields.io/badge/XCFramework-147EFB?style=flat-square&logo=xcode&logoColor=white)          
+  ![XCFramework](https://img.shields.io/badge/XCFramework-147EFB?style=flat-square&logo=xcode&logoColor=white)        
                                                                                                                         
-  **Architecture**                                                                                                      
+  **Architecture**
                                                                                                                         
   ![MVVM](https://img.shields.io/badge/MVVM-555?style=flat-square)                                                      
   ![MVC](https://img.shields.io/badge/MVC-555?style=flat-square)
   ![Combine](https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=swift&logoColor=white)                  
   ![Delegate Pattern](https://img.shields.io/badge/Delegate%20Pattern-555?style=flat-square)                            
-                                                                                                                        
+  
   ---                                                                                                                   
-                                                                                                                        
-  ## Why Hire Me                                                                                                      
+                                                                                                                      
+  ## Why Hire Me
 
   - **5 live App Store apps** — real users, real feedback, real experience                                              
   - **2 published iOS SDKs** — distributed to telecom and enterprise partners
   - **Production-scale experience** — my code runs at Shadhin Music with millions of users                              
-  - **Full ownership** — I handle everything from architecture to App Store submission                                  
-  - **Clean, maintainable code** — readable, testable, and built to last                                                
+  - **Full ownership** — I handle everything from architecture to App Store submission                                
+  - **Clean, maintainable code** — readable, testable, and built to last
   - **Fast communication** — honest updates, quick responses                                                            
-                                                                                                                        
+  
   ---                                                                                                                   
-                                                                                                                        
-  ## How I Work                                                                                                       
+                                                                                                                      
+  ## How I Work
 
   1. Discovery Call  →  Understand your idea, goals, and timeline
   2. Proposal        →  Clear scope, timeline, and pricing — no surprises
@@ -175,7 +176,7 @@
   ---
 
   ## GitHub Stats                                                                                                       
-   
+  
   <p align="center">                                                                                                    
     <img src="https://github-readme-stats.vercel.app/api?username=mdmarufprodhan&show_icons=true&theme=default&hide_bord
   er=true&count_private=true" width="48%"/>                                                                             
@@ -191,15 +192,15 @@
   ---
 
   ## Let's Work Together                                                                                                
-   
+  
   I'm actively taking on **freelance iOS projects**. Whether you have a full app idea, need an SDK built, or need help  
   with an existing app — I'd love to help.                                                                            
-                                                                                                                        
-  - **Email**: marufcse687@gmail.com                                                                                  
+
+  - **Email**: marufcse687@gmail.com
   - **LinkedIn**: [md-maruf-prodhan-187948b8](https://linkedin.com/in/md-maruf-prodhan-187948b8)
                                                                                                                         
   *I typically respond within 24 hours.*
                                                                                                                         
   ---                                                                                                                 
 
-  <p align="center"><i>5 App Store apps · 2 iOS SDKs · Millions of users</i></p>
+  <p align="center"><i>5 App Store apps · 2 iOS SDKs · Millions of users</i></p> 
