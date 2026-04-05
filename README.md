@@ -1,8 +1,4 @@
-                                                                                                                                                                                                        <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0071E3&center=true&v
-  Center=true&multiline=false&width=700&height=50&lines=4%2B+Years+iOS+Development+Experience;5+Live+App+Store+Apps;2+Pu
-  blished+iOS+SDKs;Apps+Used+by+Millions+of+Users" alt="Typing SVG" />                                                  
-  </div>                                                                                                
+                                                                                             
                                                                                                                         
   <p align="center">
     <a href="mailto:marufcse687@gmail.com"><img src="https://img.shields.io/badge/Email-marufcse687%40gmail.com-EA4335?s
