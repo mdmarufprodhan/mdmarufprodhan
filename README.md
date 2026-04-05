@@ -1,211 +1,180 @@
 <div align="center">                                                                                                  
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0071E3&height=200&section=header&text=Md%20Maruf%2
-  0Prodhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20UIKit&d
-  escAlignY=58&descSize=20" width="100%"/>                                                                              
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&sectio
+  n=header&text=Md%20Maruf%20Prodhan&fontSize=60&fontColor=fff&fontAlignY=38&desc=Senior%20iOS%20Developer%20%7C%20Swift
+  %20%7C%20SwiftUI%20%7C%20UIKit&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
   </div>                                                                                                                
-                                                                                                                        
-  <h3 align="center">                                                                                                   
-    4+ Years iOS Experience &nbsp;·&nbsp; 5 App Store Apps &nbsp;·&nbsp; 2 iOS SDKs &nbsp;·&nbsp; Millions of Users
-  </h3>                                                                                                                 
-   
-  <p align="center">                                                                                                    
-    <a href="mailto:marufcse687@gmail.com"><img src="https://img.shields.io/badge/Email-marufcse687%40gmail.com-EA4335?s
-  tyle=for-the-badge&logo=gmail&logoColor=white"/></a>                                                                  
-    <a href="https://linkedin.com/in/md-maruf-prodhan-187948b8"><img 
-  src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    
-    <img src="https://komarev.com/ghpvc/?username=mdmarufprodhan&style=for-the-badge&color=0071E3" alt="Profile views"/>
-  </p>                                                                                                                  
                                                                                                                       
-  ---                                                                                                                   
+  <br/>                                                                                                                 
+  
+  <div align="center">                                                                                                  
                                                                                                                       
-  ## Who I Am                                                                                                           
-   
-  I am a **professional iOS developer** based in Dhaka, Bangladesh with **4+ years of experience** building and shipping
-   production apps and SDKs on the Apple ecosystem. I currently work at **Shadhin Music Ltd.** — one of Bangladesh's  
-  largest music streaming platforms — where I build features and SDKs used by **millions of active users** every day.   
-                                                                                                                      
-  I have built not just apps, but **iOS SDKs distributed to third-party developers** — a level of work that requires    
-  deep understanding of Swift packaging, API design, and long-term code maintainability.
-                                                                                                                        
-  > **Open to freelance projects and international clients.**                                                           
-   
-  ---                                                                                                                   
-                                                                                                                      
-  ## What I Can Build for You
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color
+  =4F8EF7&center=true&vCenter=true&width=750&lines=Building+iOS+Apps+for+4%2B+Years+%F0%9F%9A%80;5+Live+Apps+on+the+App+
+  Store+%F0%9F%93%B1;2+Published+iOS+SDKs+%F0%9F%93%A6;Available+for+Freelance+%26+Contract+Work+%F0%9F%92%BC)](https://
+  git.io/typing-svg)                                                                                                  
 
-  | Service | Details |                                                                                                 
-  |---------|---------|
-  | **iOS App Development** | Full-cycle from wireframe to App Store submission |                                       
-  | **iOS SDK / Framework Development** | Reusable Swift packages for other developers to integrate |                   
-  | **UI/UX Implementation** | Pixel-perfect UIKit & SwiftUI with smooth animations |                                   
-  | **API Integration** | REST API, Firebase, third-party SDKs |                                                        
-  | **App Maintenance & Bug Fixing** | Performance tuning, crash fixing, code review |                                  
-  | **In-App Purchases** | StoreKit — subscriptions and one-time purchases |                                            
-  | **Push Notifications** | APNs, Firebase Cloud Messaging (FCM) |                                                     
-  | **App Store Publishing** | Full submission, provisioning profiles, TestFlight |                                     
-  | **Code Refactoring** | Migrate Objective-C or messy UIKit code to modern Swift/SwiftUI |                            
-                                                                                                                        
-  ---                                                                                                                   
-                                                                                                                        
-  ## Published Apps & SDKs                                                                                              
-   
-  ### Shadhin Music                                                                                                     
-  > Bangladesh's leading music streaming platform                                                                     
+  </div>
 
-  - Millions of active users across Bangladesh                                                                          
-  - Audio/video streaming, offline playback, background audio
-  - Complex playlist management, deep linking, push notifications                                                       
-  - [View on App Store](https://apps.apple.com/us/app/shadhin-music/id1481808365)                                     
-                                                                                                                        
+  <br/>                                                                                                                 
+  
+  <div align="center">                                                                                                  
+    <a href="mailto:marufcse687@gmail.com">                                                                           
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>                                                                                                                
+    <a href="https://linkedin.com/in/md-maruf-prodhan-187948b8">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>       
+    </a>                                                                                                              
+    <a href="https://apps.apple.com/us/app/shadhin-music/id1481808365">                                                 
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>     
+    </a>                                                                                                                
+    <img src="https://komarev.com/ghpvc/?username=mdmarufprodhan&style=for-the-badge&color=4F8EF7&label=PROFILE+VIEWS"/>
+  </div>                                                                                                                
+                                                                                                                      
+  <br/>                                                                                                                 
+                                                                                                                      
   ---
-                                                                                                                        
-  ### RYZE Music SDK *(iOS SDK)*                                                                                        
-  > White-label music streaming SDK for third-party iOS developers
-                                                                                                                        
-  - Allows other companies to embed Shadhin's music engine into their own apps                                          
-  - Distributed via Swift Package Manager
-  - Built with clean public API design, documentation, and versioning                                                   
-  - [View on GitHub](https://github.com/shadhin-music/RYZEMusicSDK-iOS)                                                 
-                                                                                                                        
-  ---                                                                                                                   
-                                                                                                                      
-  ### MYBL Music SDK *(iOS SDK)*                                                                                        
-  > Music SDK integration built for the MyBL super-app (Banglalink)
-                                                                                                                        
-  - Embedded music streaming inside Banglalink's telecom super-app                                                      
-  - Seamless SDK handoff with token-based auth and deep link support                                                    
-  - [View on GitHub](https://github.com/shadhin-music/MYBLMusicSDK-iOS)                                                 
-                                                                                                                        
-  ---                                                                                                                   
-                                                                                                                        
-  ### DEEN — Quran, Hadith & Prayer Time                                                                                
-  > Complete Islamic lifestyle app
-                                                                                                                        
-  - Full Quran with audio recitation, Hadith collections, accurate prayer times                                         
-  - Location-based Qibla direction, Hijri calendar, Azan alerts                                                         
-  - [View on App Store](https://apps.apple.com/app/deen-quran-hadith-prayer-time/id6504724978)                          
-                                                                                                                        
-  ---                                                                                                                   
-                                                                                                                        
-  ### NOOR — Quran, Namaz & Hadith                                                                                      
-  > Islamic app with Bangla language support
-                                                                                                                        
-  - Quran with Bangla translation, Namaz guide, Hadith browser                                                        
-  - Designed for Bangladeshi Muslim users                                                                               
-  - [View on App Store](https://apps.apple.com/us/app/noor-quran-namaz-hadith/id1645748902)                             
-                                                                                                                        
-  ---                                                                                                                   
-                                                                                                                        
-  ### AISocial — AI Assistant & Chat                                                                                    
-  > AI-powered social assistant app
-                                                                                                                        
-  - Real-time AI conversations, multi-session support                                                                 
-  - Clean conversational UI built with UIKit
-  - [View on App Store](https://apps.apple.com/us/app/aisocial-ai-assistant-ai-chat/id6446788161)                       
-                                                                                                                        
-  ---                                                                                                                   
-                                                                                                                        
-  ### ReserveIt BD — Reservation App                                                                                    
-  > Booking and reservation platform for Bangladesh
-                                                                                                                        
-  - Table and service reservation system                                                                                
-  - Real-time availability, booking confirmation flow
-  - [View on App Store](https://apps.apple.com/us/app/reserveit-bd/id6463799781)                                        
-                                                                                                                        
-  ---
-                                                                                                                        
-  ## Tech Stack                                                                                                       
 
-  **Languages**                                                                                                         
-   
-  ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)                      
-  ![Objective-C](https://img.shields.io/badge/Objective--C-438eff?style=flat-square&logo=apple&logoColor=white)       
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                   
-                                                                                                                        
-  **UI Frameworks**                                                                                                     
-                                                                                                                        
-  ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)                      
-  ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
-  ![Core Animation](https://img.shields.io/badge/Core%20Animation-555?style=flat-square&logo=apple&logoColor=white)     
-  ![Auto Layout](https://img.shields.io/badge/Auto%20Layout-555?style=flat-square&logo=apple&logoColor=white)           
-                                                                                                                        
-  **Data & Storage**                                                                                                    
-                                                                                                                        
-  ![Core Data](https://img.shields.io/badge/Core%20Data-555?style=flat-square&logo=apple&logoColor=white)             
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)                   
-   
-  **Networking**                                                                                                        
+  <img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>      
+  
+  ### 👨‍💻 About Me                                                                                                       sc to interrupt                                                     Update available! Run: brew upgrade claude-code
                                                                                                                       
-  ![Alamofire](https://img.shields.io/badge/Alamofire-E05C42?style=flat-square&logo=swift&logoColor=white)              
-  ![URLSession](https://img.shields.io/badge/URLSession-555?style=flat-square&logo=apple&logoColor=white)             
-  ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)            
-   
-  **SDK & Package Distribution**                                                                                        
+  ```swift                                                                                                              
+  let maruf = iOSDeveloper(
+    name:       "Md Maruf Prodhan",                                                                                     
+    location:   "Dhaka, Bangladesh 🇧🇩",                                                                                 
+    company:    "Shadhin Music Ltd.",
+    experience: "4+ years",                                                                                             
+    apps:       5,  // Live on App Store                                                                              
+    sdks:       2,  // Distributed to partners                                                                          
+    openTo:     ["Freelance", "Contract", "Remote"]                                                                   
+  )                                                                                                                     
                                                                                                                       
-  ![Swift Package                                                                                                       
-  Manager](https://img.shields.io/badge/Swift%20Package%20Manager-F05138?style=flat-square&logo=swift&logoColor=white)
-  ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
-  ![XCFramework](https://img.shields.io/badge/XCFramework-147EFB?style=flat-square&logo=xcode&logoColor=white)          
+  - 🏢 Currently building at Shadhin Music Ltd. — Bangladesh's #1 music streaming platform                              
+  - 📦 Author of 2 iOS SDKs used by telecom giants like Banglalink                                                      
+  - 🌍 Open to international clients and remote freelance projects                                                      
+  - 💬 Ask me about Swift, SwiftUI, UIKit, SDK Development, App Store                                                   
+  - ⚡ I turn your idea into a polished, published iOS app                                                              
                                                                                                                         
-  **Architecture**                                                                                                      
+  ---                                                                                                                   
+  🏆 GitHub Trophies                                                                                                  
+
+  ---
+  💼 Services — What I Can Build for You                                                                                
+                                        
+  ┌─────┬───────────────────────────┬────────────────────────────────────────────────────────────┐                      
+  │     │          Service          │                        What You Get                        │                      
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤
+  │ 📱  │ iOS App Development       │ Full-cycle: wireframe → development → App Store launch     │                      
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤                    
+  │ 📦  │ iOS SDK / Framework       │ Reusable Swift package your team or partners can integrate │
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤                      
+  │ 🎨  │ UI/UX Implementation      │ Pixel-perfect UIKit & SwiftUI with fluid animations        │
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤                      
+  │ 🔗  │ API & Backend Integration │ REST, Firebase, GraphQL, any third-party service           │                    
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤                      
+  │ 🛒  │ In-App Purchases          │ StoreKit subscriptions, consumables, one-time purchases    │
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤                      
+  │ 🔔  │ Push Notifications        │ APNs, Firebase Cloud Messaging, rich notifications         │                    
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤                      
+  │ 🚀  │ App Store Publishing      │ Full submission, screenshots, metadata, TestFlight         │                    
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤                      
+  │ 🔧  │ App Maintenance & Fixes   │ Bug fixing, performance tuning, crash resolution           │                    
+  ├─────┼───────────────────────────┼────────────────────────────────────────────────────────────┤                      
+  │ ♻️   │ Code Refactoring          │ Modernize legacy Objective-C to clean Swift/SwiftUI        │                    
+  └─────┴───────────────────────────┴────────────────────────────────────────────────────────────┘                      
+                                                                                                                      
+  ---                                                                                                                   
+  🚀 Published Apps & SDKs                                                                                            
+                          
+  ---
+  🛠️  Tech Stack                                                                                                         
+               
+  Languages                                                                                                             
                                                                                                                         
-  ![MVVM](https://img.shields.io/badge/MVVM-555?style=flat-square)                                                    
-  ![MVC](https://img.shields.io/badge/MVC-555?style=flat-square)
-  ![Combine](https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=swift&logoColor=white)                  
-  ![Delegate Pattern](https://img.shields.io/badge/Delegate%20Pattern-555?style=flat-square)
+  https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white
+  https://img.shields.io/badge/Objective--C-438eff?style=for-the-badge&logo=apple&logoColor=white                       
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white                            
+                                                                                                                        
+  UI Frameworks                                                                                                         
+                                                                                                                        
+  https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white                              
+  https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white
+  https://img.shields.io/badge/Core%20Animation-555555?style=for-the-badge&logo=apple&logoColor=white                   
+  https://img.shields.io/badge/Auto%20Layout-555555?style=for-the-badge&logo=apple&logoColor=white                      
+                                                                                                                        
+  Data & Backend                                                                                                        
+                                                                                                                        
+  https://img.shields.io/badge/Core%20Data-555555?style=for-the-badge&logo=apple&logoColor=white                      
+  https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+  https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white                            
+  https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white                       
+                                                                                                                        
+  Networking                                                                                                            
+                                                                                                                        
+  https://img.shields.io/badge/Alamofire-E05C42?style=for-the-badge&logo=swift&logoColor=white                          
+  https://img.shields.io/badge/URLSession-555555?style=for-the-badge&logo=apple&logoColor=white
+                                                                                                                        
+  SDK & Distribution                                                                                                    
+   
+  https://img.shields.io/badge/SPM-F05138?style=for-the-badge&logo=swift&logoColor=white                                
+  https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white                    
+  https://img.shields.io/badge/XCFramework-147EFB?style=for-the-badge&logo=xcode&logoColor=white                        
+                                                                                                                        
+  Tools                                                                                                                 
+                                                                                                                        
+  https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white                              
+  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+  https://img.shields.io/badge/TestFlight-0071E3?style=for-the-badge&logo=apple&logoColor=white                         
+  https://img.shields.io/badge/Instruments-555555?style=for-the-badge&logo=apple&logoColor=white                        
+                                                                                                                        
+  Architecture                                                                                                          
+                                                                                                                        
+  https://img.shields.io/badge/MVVM-4F8EF7?style=for-the-badge                                                          
+  https://img.shields.io/badge/MVC-4F8EF7?style=for-the-badge
+  https://img.shields.io/badge/Combine-F05138?style=for-the-badge&logo=swift&logoColor=white                            
+  https://img.shields.io/badge/Clean%20Architecture-4F8EF7?style=for-the-badge                                        
                                                                                                                         
   ---                                                                                                                 
-                                                                                                                        
-  ## Why Hire Me                                                                                                      
-
-  - **5 live App Store apps** — real users, real feedback, real experience
-  - **2 published iOS SDKs** — distributed to telecom and enterprise partners
-  - **Production-scale experience** — my code runs at Shadhin Music with millions of users
-  - **Full ownership** — I handle everything from architecture to App Store submission                                  
-  - **Clean, maintainable code** — readable, testable, and built to last
-  - **Fast communication** — honest updates, quick responses                                                            
+  📊 GitHub Stats                                                                                                       
+                                                                                                                      
+  ---
+  ✅ Why Hire Me                                                                                                        
+   
+  ┌─────┬───────────────────────┬──────────────────────────────────────────────────────────┐                            
+  │     │        Reason         │                          Detail                          │                            
+  ├─────┼───────────────────────┼──────────────────────────────────────────────────────────┤
+  │ 📱  │ Real shipped products │ 5 live App Store apps — not just side projects           │                            
+  ├─────┼───────────────────────┼──────────────────────────────────────────────────────────┤                          
+  │ 📦  │ SDK author            │ 2 iOS SDKs distributed to major enterprise partners      │                            
+  ├─────┼───────────────────────┼──────────────────────────────────────────────────────────┤                            
+  │ 🏭  │ Production scale      │ My code serves millions of users daily at Shadhin Music  │                            
+  ├─────┼───────────────────────┼──────────────────────────────────────────────────────────┤                            
+  │ 🎯  │ Full ownership        │ Architecture → development → App Store — I handle it all │                          
+  ├─────┼───────────────────────┼──────────────────────────────────────────────────────────┤                            
+  │ 🧹  │ Clean code            │ Readable, testable, maintainable — easy to hand off      │                          
+  ├─────┼───────────────────────┼──────────────────────────────────────────────────────────┤                            
+  │ ⚡  │ Fast delivery         │ Regular builds, no ghosting, honest timelines            │                          
+  ├─────┼───────────────────────┼──────────────────────────────────────────────────────────┤                            
+  │ 🌍  │ Remote ready          │ Experienced working with distributed teams               │                          
+  └─────┴───────────────────────┴──────────────────────────────────────────────────────────┘                            
                                                                                                                       
   ---                                                                                                                   
-   
-  ## How I Work                                                                                                         
-                                                                                                                      
-  1. Discovery Call  →  Understand your idea, goals, and timeline
-  2. Proposal        →  Clear scope, timeline, and pricing — no surprises
-  3. Development     →  Regular updates, TestFlight builds for your review
-  4. Testing         →  Device testing, edge case handling, crash-free delivery
-  5. Launch          →  App Store submission and post-launch support                                                    
-   
-  ---                                                                                                                   
-                                                                                                                      
-  ## GitHub Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdmarufprodhan&show_icons=true&theme=default&hide_bord
-  er=true&count_private=true" width="48%"/>                                                                             
-    <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmarufprodhan&layout=compact&hide_border=true"   
-  width="40%"/>                                                                                                       
-  </p>                                                                                                                  
-                                                                                                                      
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmarufprodhan&hide_border=true" width="60%"/>
-  </p>                                                                                                                  
-   
-  ---                                                                                                                   
-                                                                                                                      
-  ## Let's Work Together
-
-  I'm actively taking on **freelance iOS projects**. Whether you have a full app idea, need an SDK built, or need help  
-  with an existing app — I'd love to help.
+  🔄 How I Work                                                                                                       
                                                                                                                         
-  - **Email**: marufcse687@gmail.com                                                                                  
-  - **LinkedIn**: [md-maruf-prodhan-187948b8](https://linkedin.com/in/md-maruf-prodhan-187948b8)
-                                                                                                                        
-  *I typically respond within 24 hours.*
+  📞 Step 1 — Discovery Call    →  I understand your idea, users, and goals
+  📋 Step 2 — Clear Proposal    →  Defined scope, timeline & pricing. No surprises.                                     
+  💻 Step 3 — Development       →  Regular TestFlight builds so you see progress                                        
+  🧪 Step 4 — Testing           →  Device testing, edge cases, crash-free delivery                                      
+  🚀 Step 5 — Launch            →  App Store submission + post-launch support                                           
                                                                                                                         
   ---                                                                                                                 
-
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0071E3&height=120&section=footer" width="100%"/>
-  </div>  
+  📬 Let's Work Together                                                                                                
+                                                                                                                      
+  I am available for freelance iOS projects right now.
+                                                                                                                        
+  Whether you need an app built from scratch, an SDK developed,                                                         
+  or help improving an existing app — let's talk.                                                                       
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+  ⚡ I respond within 24 hours 
