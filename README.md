@@ -1,6 +1,14 @@
-                                                                                             
+<div align="center">                                                                                                  
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0071E3&height=200&section=header&text=Md%20Maruf%2
+  0Prodhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20UIKit&d
+  escAlignY=58&descSize=20" width="100%"/>                                                                              
+  </div>                                                                                                                
                                                                                                                         
-  <p align="center">
+  <h3 align="center">                                                                                                   
+    4+ Years iOS Experience &nbsp;·&nbsp; 5 App Store Apps &nbsp;·&nbsp; 2 iOS SDKs &nbsp;·&nbsp; Millions of Users
+  </h3>                                                                                                                 
+   
+  <p align="center">                                                                                                    
     <a href="mailto:marufcse687@gmail.com"><img src="https://img.shields.io/badge/Email-marufcse687%40gmail.com-EA4335?s
   tyle=for-the-badge&logo=gmail&logoColor=white"/></a>                                                                  
     <a href="https://linkedin.com/in/md-maruf-prodhan-187948b8"><img 
@@ -10,10 +18,10 @@
                                                                                                                       
   ---                                                                                                                   
                                                                                                                       
-  ## Who I Am
-
+  ## Who I Am                                                                                                           
+   
   I am a **professional iOS developer** based in Dhaka, Bangladesh with **4+ years of experience** building and shipping
-   production apps and SDKs on the Apple ecosystem. I currently work at **Shadhin Music Ltd.** — one of Bangladesh's
+   production apps and SDKs on the Apple ecosystem. I currently work at **Shadhin Music Ltd.** — one of Bangladesh's  
   largest music streaming platforms — where I build features and SDKs used by **millions of active users** every day.   
                                                                                                                       
   I have built not just apps, but **iOS SDKs distributed to third-party developers** — a level of work that requires    
@@ -23,11 +31,11 @@
    
   ---                                                                                                                   
                                                                                                                       
-  ## What I Can Build for You                                                                                           
-   
+  ## What I Can Build for You
+
   | Service | Details |                                                                                                 
-  |---------|---------|                                                                                               
-  | **iOS App Development** | Full-cycle from wireframe to App Store submission |
+  |---------|---------|
+  | **iOS App Development** | Full-cycle from wireframe to App Store submission |                                       
   | **iOS SDK / Framework Development** | Reusable Swift packages for other developers to integrate |                   
   | **UI/UX Implementation** | Pixel-perfect UIKit & SwiftUI with smooth animations |                                   
   | **API Integration** | REST API, Firebase, third-party SDKs |                                                        
@@ -49,7 +57,7 @@
   - Complex playlist management, deep linking, push notifications                                                       
   - [View on App Store](https://apps.apple.com/us/app/shadhin-music/id1481808365)                                     
                                                                                                                         
-  ---                                                                                                                 
+  ---
                                                                                                                         
   ### RYZE Music SDK *(iOS SDK)*                                                                                        
   > White-label music streaming SDK for third-party iOS developers
@@ -64,7 +72,7 @@
   ### MYBL Music SDK *(iOS SDK)*                                                                                        
   > Music SDK integration built for the MyBL super-app (Banglalink)
                                                                                                                         
-  - Embedded music streaming inside Banglalink's telecom super-app                                                    
+  - Embedded music streaming inside Banglalink's telecom super-app                                                      
   - Seamless SDK handoff with token-based auth and deep link support                                                    
   - [View on GitHub](https://github.com/shadhin-music/MYBLMusicSDK-iOS)                                                 
                                                                                                                         
@@ -79,10 +87,10 @@
                                                                                                                         
   ---                                                                                                                   
                                                                                                                         
-  ### NOOR — Quran, Namaz & Hadith                                                                                    
+  ### NOOR — Quran, Namaz & Hadith                                                                                      
   > Islamic app with Bangla language support
                                                                                                                         
-  - Quran with Bangla translation, Namaz guide, Hadith browser
+  - Quran with Bangla translation, Namaz guide, Hadith browser                                                        
   - Designed for Bangladeshi Muslim users                                                                               
   - [View on App Store](https://apps.apple.com/us/app/noor-quran-namaz-hadith/id1645748902)                             
                                                                                                                         
@@ -103,15 +111,15 @@
   - Table and service reservation system                                                                                
   - Real-time availability, booking confirmation flow
   - [View on App Store](https://apps.apple.com/us/app/reserveit-bd/id6463799781)                                        
-                                                                                                                      
-  ---                                                                                                                   
-                                                                                                                      
-  ## Tech Stack                                                                                                         
-   
+                                                                                                                        
+  ---
+                                                                                                                        
+  ## Tech Stack                                                                                                       
+
   **Languages**                                                                                                         
-                                                                                                                      
+   
   ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)                      
-  ![Objective-C](https://img.shields.io/badge/Objective--C-438eff?style=flat-square&logo=apple&logoColor=white)
+  ![Objective-C](https://img.shields.io/badge/Objective--C-438eff?style=flat-square&logo=apple&logoColor=white)       
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                   
                                                                                                                         
   **UI Frameworks**                                                                                                     
@@ -120,37 +128,37 @@
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
   ![Core Animation](https://img.shields.io/badge/Core%20Animation-555?style=flat-square&logo=apple&logoColor=white)     
   ![Auto Layout](https://img.shields.io/badge/Auto%20Layout-555?style=flat-square&logo=apple&logoColor=white)           
-   
+                                                                                                                        
   **Data & Storage**                                                                                                    
-                                                                                                                      
-  ![Core Data](https://img.shields.io/badge/Core%20Data-555?style=flat-square&logo=apple&logoColor=white)               
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)           
+                                                                                                                        
+  ![Core Data](https://img.shields.io/badge/Core%20Data-555?style=flat-square&logo=apple&logoColor=white)             
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)                   
-                                                                                                                        
+   
   **Networking**                                                                                                        
-                                                                                                                        
+                                                                                                                      
   ![Alamofire](https://img.shields.io/badge/Alamofire-E05C42?style=flat-square&logo=swift&logoColor=white)              
-  ![URLSession](https://img.shields.io/badge/URLSession-555?style=flat-square&logo=apple&logoColor=white)
+  ![URLSession](https://img.shields.io/badge/URLSession-555?style=flat-square&logo=apple&logoColor=white)             
   ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)            
-                                                                                                                        
-  **SDK & Package Distribution**
-                                                                                                                        
+   
+  **SDK & Package Distribution**                                                                                        
+                                                                                                                      
   ![Swift Package                                                                                                       
   Manager](https://img.shields.io/badge/Swift%20Package%20Manager-F05138?style=flat-square&logo=swift&logoColor=white)
-  ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)          
+  ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
   ![XCFramework](https://img.shields.io/badge/XCFramework-147EFB?style=flat-square&logo=xcode&logoColor=white)          
-   
+                                                                                                                        
   **Architecture**                                                                                                      
-                                                                                                                      
-  ![MVVM](https://img.shields.io/badge/MVVM-555?style=flat-square)                                                      
-  ![MVC](https://img.shields.io/badge/MVC-555?style=flat-square)                                                      
-  ![Combine](https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=swift&logoColor=white)
-  ![Delegate Pattern](https://img.shields.io/badge/Delegate%20Pattern-555?style=flat-square)                            
-   
-  ---                                                                                                                   
-                                                                                                                      
-  ## Why Hire Me                                                                                                        
-                                                                                                                      
+                                                                                                                        
+  ![MVVM](https://img.shields.io/badge/MVVM-555?style=flat-square)                                                    
+  ![MVC](https://img.shields.io/badge/MVC-555?style=flat-square)
+  ![Combine](https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=swift&logoColor=white)                  
+  ![Delegate Pattern](https://img.shields.io/badge/Delegate%20Pattern-555?style=flat-square)
+                                                                                                                        
+  ---                                                                                                                 
+                                                                                                                        
+  ## Why Hire Me                                                                                                      
+
   - **5 live App Store apps** — real users, real feedback, real experience
   - **2 published iOS SDKs** — distributed to telecom and enterprise partners
   - **Production-scale experience** — my code runs at Shadhin Music with millions of users
@@ -158,14 +166,14 @@
   - **Clean, maintainable code** — readable, testable, and built to last
   - **Fast communication** — honest updates, quick responses                                                            
                                                                                                                       
-  ---
-
-  ## How I Work
-
-  1. Discovery Call  →  Understand your idea, goals, and timeline                                                       
+  ---                                                                                                                   
+   
+  ## How I Work                                                                                                         
+                                                                                                                      
+  1. Discovery Call  →  Understand your idea, goals, and timeline
   2. Proposal        →  Clear scope, timeline, and pricing — no surprises
-  3. Development     →  Regular updates, TestFlight builds for your review                                              
-  4. Testing         →  Device testing, edge case handling, crash-free delivery                                       
+  3. Development     →  Regular updates, TestFlight builds for your review
+  4. Testing         →  Device testing, edge case handling, crash-free delivery
   5. Launch          →  App Store submission and post-launch support                                                    
    
   ---                                                                                                                   
@@ -193,11 +201,11 @@
                                                                                                                         
   - **Email**: marufcse687@gmail.com                                                                                  
   - **LinkedIn**: [md-maruf-prodhan-187948b8](https://linkedin.com/in/md-maruf-prodhan-187948b8)
+                                                                                                                        
+  *I typically respond within 24 hours.*
+                                                                                                                        
+  ---                                                                                                                 
 
-  *I typically respond within 24 hours.*                                                                                
-   
-  ---                                                                                                                   
-                                                                                                                      
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0071E3&height=120&section=footer" width="100%"/>
-  </div>   
+  </div>  
