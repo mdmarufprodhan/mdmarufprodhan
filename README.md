@@ -1,4 +1,4 @@
-⏺ <div align="center">                                                                                                  
+ <div align="center">                                                                                                  
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0071E3&height=200&section=header&text=Md%20Maruf%2
   0Prodhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20UIKit&d
   escAlignY=58&descSize=20" width="100%"/>                                                                              
