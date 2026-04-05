@@ -1,9 +1,4 @@
- <div align="center">                                                                                                  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0071E3&center=true&vCenter=t
-  rue&width=700&lines=4%2B+Years+iOS+Development+Experience;5+Live+App+Store+Apps;2+Published+iOS+SDKs;Apps+Used+by+Mill
-  ions+of+Users" alt="Typing SVG" />
-  </div>                                                                                                                  
-                                                                                                                        
+                                                                                                                                                                                                                                     
   <div align="center">                                                                                                  
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0071E3&center=true&vCenter=t
   rue&width=700&lines=4%2B+Years+iOS+Development+Experience;5+Live+App+Store+Apps;2+Published+iOS+SDKs;Apps+Used+by+Mill
